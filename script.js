@@ -15,6 +15,7 @@ Available commands:
   <span class="command-echo">clear</span>      - clear the terminal screen
   <span class="command-echo">theme</span>      - change the theme (e.g., 'theme light', 'theme dark')
   <span class="command-echo">help</span>       - show this help message
+  
     `,
     about: `
 haii n welcome!! name's cibles/c1bles. i'm aspiring to at least become smth in life :3c
