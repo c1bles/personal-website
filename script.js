@@ -46,7 +46,7 @@ some of my projects!!!
     </li>
 </ul>
     `,
-    find-me: `
+    "find-me": `
 some of my accs! (too lazy to put them all)
 
 Email: <a href="mailto:contact@cbls.dev">contact@cbls.dev</a>
