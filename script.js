@@ -56,7 +56,7 @@ Twitter/X: <a href="https://x.com/@c1bles">https://x.com/@c1bles</a>
 MyAnimeList: <a href="https://myanimelist.net/profile/cibles">https://myanimelist.net/profile/cibles</a>
 
 Minecraft: <a href="https://namemc.com/profile/Cibles.5">Cibles</a>
-Roblox: <a href="https://namemc.com/profile/Cibles.5">Cibles</a>
+Roblox: <a href="https://www.roblox.com/users/1585461453/profile">https://www.roblox.com/users/1585461453/profile</a>
 Steam: <a href="https://steamcommunity.com/profiles/c1bles">https://steamcommunity.com/profiles/c1bles</a>
 
     `,
