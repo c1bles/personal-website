@@ -20,9 +20,8 @@ Available commands:
     about: `
 haii n welcome!! name's cibles/c1bles. i'm aspiring to at least become smth in life :3c
 i do a lot of different stuff, like dev, music prod, photography, scanlation, and more...
-i'm like legit really peak x3
 
-i'm part of the persona, project moon, and subahiki fandoms (and some others ^^)
+i'm part of the persona, project moon, and subahibi fandoms (and some others ^^)
 
     `,
     projects: `
@@ -51,11 +50,12 @@ some of my accs! (too lazy to put them all)
 
 Email: <a href="mailto:contact@cbls.dev">contact@cbls.dev</a>
 GitHub: <a href="https://github.com/c1bles" target="_blank">github.com/c1bles</a>
-Discord: <a href="https://discordid.netlify.app/?id=770202003572785162" target="_blank">my discord account</a>
+Discord (new account): <a href="https://discordid.netlify.app/?id=873221000936951909" target="_blank">link</a>
+Discord (old, banned account): <a href="https://discordid.netlify.app/?id=770202003572785162" target="_blank">link</a>
 Twitter/X: <a href="https://x.com/@c1bles">https://x.com/@c1bles</a>
-MyAnimeList: <a href="https://myanimelist.net/profile/cibles">https://myanimelist.net/profile/cibles</a>
+AniList: <a href="https://anilist.co/user/cibles/">https://anilist.co/user/cibles/</a>
 
-Minecraft: <a href="https://namemc.com/profile/Cibles.5">Cibles</a>
+Minecraft: <a href="https://namemc.com/profile/Cibles">Cibles</a>
 Roblox: <a href="https://www.roblox.com/users/1585461453/profile">https://www.roblox.com/users/1585461453/profile</a>
 Steam: <a href="https://steamcommunity.com/profiles/c1bles">https://steamcommunity.com/profiles/c1bles</a>
 
