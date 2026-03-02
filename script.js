@@ -9,7 +9,7 @@ let isLightTheme = false;
 const commands = {
     help: `
 Available commands:
-  <span class="command-echo">about</span>      - who am i?
+  <span class="command-echo">about</span>      - a bit about myself
   <span class="command-echo">projects</span>   - check out my projects
   <span class="command-echo">find-me</span>    - most of my accs! (includes contact info)
   <span class="command-echo">clear</span>      - clear the terminal screen
@@ -18,9 +18,8 @@ Available commands:
   
     `,
     about: `
-haii n welcome!! name's cibles/c1bles. i'm aspiring to at least become smth in life :3c
-i do a lot of different stuff, like dev, music prod, photography, scanlation, and more...
-
+haii n welcome!! name's cibles/c1bles. i'm a lazy bum that does a lot of different stuff (like dev, music prod, photography, translation/scanlation, design and more...)
+i love consuming media!! (plzpzlpzlzplz add me on <a href="https://anilist.co/user/cibles">anilist</a>)
 i'm part of the persona, project moon, and subahibi fandoms (and some others ^^)
 
     `,
@@ -40,7 +39,7 @@ some of my projects!!!
     </li>
     <li>
         <p class="project-title">ChibiDock</p>
-        <p>Barebones comic reader made in html for website integration.</p>
+        <p>Barebones comic reader made in html for website integration. (barebones build)</p>
         <a href="https://chibidock.vercel.app/" target="_blank">[Live Demo]</a> <a href="https://github.com/c1bles/ChibiDock" target="_blank">[GitHub]</a>
     </li>
 </ul>
@@ -58,6 +57,7 @@ AniList: <a href="https://anilist.co/user/cibles/">https://anilist.co/user/cible
 Minecraft: <a href="https://namemc.com/profile/Cibles">Cibles</a>
 Roblox: <a href="https://www.roblox.com/users/1585461453/profile">https://www.roblox.com/users/1585461453/profile</a>
 Steam: <a href="https://steamcommunity.com/profiles/c1bles">https://steamcommunity.com/profiles/c1bles</a>
+Valorant: cibles#0000
 
     `,
 };
