@@ -4,7 +4,7 @@
 
 # T3RM1N4L
 [![License: MIT](https://img.shields.io/github/license/c1bles/T3RM1N4L?labelColor=27303D&color=0877d2)](/LICENSE)
-[![Discord: Nominal](https://img.shields.io/discord/1363085866670751854.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discordid.netlify.app/?id=770202003572785162)
+[![Discord: Nominal](https://img.shields.io/discord/1363085866670751854.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discordid.netlify.app/?id=873221000936951909)
 
 A clean, modern and intuitive terminal-styled portfolio site. 
 ![Screenshot](https://files.catbox.moe/lddnnn.png) </div> <div align="center">
