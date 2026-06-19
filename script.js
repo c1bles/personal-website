@@ -11,7 +11,7 @@ const commands = {
 Available commands:
   <span class="command-echo">about</span>      - a bit about myself
   <span class="command-echo">projects</span>   - check out my projects
-  <span class="command-echo">find-me</span>    - most of my accs! (includes contact info)
+  <span class="command-echo">links</span>    - most of my accs! (includes contact info)
   <span class="command-echo">clear</span>      - clear the terminal screen
   <span class="command-echo">theme</span>      - change the theme (e.g., 'theme light', 'theme dark')
   <span class="command-echo">help</span>       - show this help message
@@ -43,8 +43,21 @@ some of my projects!!!
         <a href="https://chibidock.vercel.app/" target="_blank">[Live Demo]</a> <a href="https://github.com/c1bles/ChibiDock" target="_blank">[GitHub]</a>
     </li>
 </ul>
+
+<ul class="others">
+    <li>
+        <p class="project-title">KukoriScans</p>
+        <p>Scanlation group aiming to make manga more accessible (FR/EN)</p>
+        <a href="https://mangadex.org/group/4e4bebfb-f41a-4886-a25f-06c3b7f23e15/kukoriscans" target="_blank">[MDex]</a> <a href="https://discord.gg/KgkEeJR7cM" target="_blank">[Discord]</a>
+    </li>
+    <li>
+        <p class="project-title">untitled</p>
+        <p>Music project, not released to the public yet.</p>
+        <a href="https://t3rm1n4l.vercel.app/" target="_blank">[No links]</a>
+    </li>
+</ul>
     `,
-    "find-me": `
+    "links": `
 some of my accs! (too lazy to put them all)
 
 Email: <a href="mailto:contact@cbls.dev">contact@cbls.dev</a>
@@ -57,7 +70,7 @@ AniList: <a href="https://anilist.co/user/cibles/">https://anilist.co/user/cible
 Minecraft: <a href="https://namemc.com/profile/Cibles">Cibles</a>
 Roblox: <a href="https://www.roblox.com/users/1585461453/profile">https://www.roblox.com/users/1585461453/profile</a>
 Steam: <a href="https://steamcommunity.com/profiles/c1bles">https://steamcommunity.com/profiles/c1bles</a>
-Valorant: mεss#www
+Riot (Valorant): mεss#www
 
     `,
 };
