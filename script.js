@@ -50,14 +50,14 @@ some of my accs! (too lazy to put them all)
 Email: <a href="mailto:contact@cbls.dev">contact@cbls.dev</a>
 GitHub: <a href="https://github.com/c1bles" target="_blank">github.com/c1bles</a>
 Discord (new account): <a href="https://discordid.netlify.app/?id=873221000936951909" target="_blank">link</a>
-Discord (old, banned account): <a href="https://discordid.netlify.app/?id=770202003572785162" target="_blank">link</a>
+Discord (old): <a href="https://discordid.netlify.app/?id=770202003572785162" target="_blank">link</a>
 Twitter/X: <a href="https://x.com/@c1bles">https://x.com/@c1bles</a>
 AniList: <a href="https://anilist.co/user/cibles/">https://anilist.co/user/cibles/</a>
 
 Minecraft: <a href="https://namemc.com/profile/Cibles">Cibles</a>
 Roblox: <a href="https://www.roblox.com/users/1585461453/profile">https://www.roblox.com/users/1585461453/profile</a>
 Steam: <a href="https://steamcommunity.com/profiles/c1bles">https://steamcommunity.com/profiles/c1bles</a>
-Valorant: cibles#0000
+Valorant: mεss#www
 
     `,
 };
@@ -90,7 +90,7 @@ function handleThemeCommand(args) {
 
 function printWelcomeMessage() {
     const welcome = `
-welcome to my peak website!!!! :3
+hii
 i'd recommend starting with the 'about' command
 use 'help' to get a list of all of the available commands
     `;
